@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 /**
  * @Title: Week125
- * @Description: 传说中的geohash编码   虽然不知道有什么用   但还是实现了下 另外，Java为什么没有Base32..
+ * @Description: 传说中的geohash编码 对经纬度进行二进制编码 另外，Java为什么没有Base32
+ *					..
  * @School: USTC 
  * @Author ShShen
  * @Date 2016年11月28日上午12:39:34*/
